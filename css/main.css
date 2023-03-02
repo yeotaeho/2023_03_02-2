@@ -15,7 +15,7 @@
  #imgbox3 > h1 {text-align:center; font-size:40px; font-weight: bold;}
  .menu {width:1160px; height:73px; margin:0 auto;}
  .menu > ul {margin:30px 0px 0px 170px;}
- .menu > ul > li {float:left; margin:40px 0px 0px 13px; text-decoration:none; padding:17px 0px; border-radius:30px; background-color: #eee;}
+ .menu > ul > li {float:left; margin:20px 0px 0px 14px; text-decoration:none; padding:17px 0px; border-radius:30px; background-color: #eee;}
  .menu > ul > li > a { color:#828282; font-size:19px; padding:17px 22px; border-radius: 30px;} 
  .menu > ul > li:hover {background-color:#3c8461; color:#f7f7f7;}
  .menu > ul > li > a:hover {color:#f7f7f7;}
