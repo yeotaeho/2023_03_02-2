@@ -5,7 +5,7 @@
   #sub_content {width:100%; height:9450px; padding:0px 0px 0px; margin:0 auto;}
 
   /*메인이미지*/
-  #mainimg {width:1160px; height:570px; margin:0 auto; padding:60px 0px 0px 0px;}
+  #mainimg {width:1160px; height:570px; margin:0 auto; padding:60px 0px 0px 0px; border-top:1px solid #046142;}
   #mainimg > .mainimgbox {width:450px; height:570px; float:left;}
   #mainimg > .mainimgbox > a > img {width:400px; height:450px;}
   #mainimg > .mainimgbox > ul > li >img {width: 94px; height: 104px; background-color: blanchedalmond; float: left; margin:8px 8px 0px 0px;}
@@ -75,7 +75,7 @@
   #list {width:1160px; height:152px; margin:0 auto;}
   #list > #listbox {width: 1160px; height:80px; margin:70px 0px 0px 0px; float: left; border-top:2px solid #046142;}
   #list > #listbox > a > ul {width:290px; height:80px; float: left;}
-  #list > #listbox > a > ul > li {text-align: center; color:#515151; font-weight: bold; font-size:18px; padding: 31px 0px;}
+  #list > #listbox > a > ul > li {text-align: center; color:#515151; font-weight: bold; font-size:18px; padding: 31px 0px; }
   #list > #listbox > a > ul:hover {background-color: #046142; color: #fff;}
   #list > #listbox > a > ul > li:hover {color: #fff;}
 
